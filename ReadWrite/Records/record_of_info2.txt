@@ -1,0 +1,15 @@
+
+
+********************************************************************
+ Name: 	Linda Wilson
+ SSN: 	300573412 		Age: 	18 yrs 		Sex: 	F
+
+********************************************************************
+   Transfer Hours:         2	 Transfer Quality Points:    7
+   MSU Hours Attempted:   20	 MSU Quality Points:        69
+
+   Transfer GPA:   3.50
+   MSU GPA:        3.45
+   Overall GPA:    3.45
+********************************************************************
+

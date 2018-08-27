@@ -1,0 +1,6 @@
+Name:	Justin Bowers
+Age:	  21
+SSN:	1373258519
+Sex:	  M
+Transfer hours: 32	Transfer quality points: 109
+MSU hours:	 0	MSU quality points:     0

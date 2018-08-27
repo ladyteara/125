@@ -1,0 +1,15 @@
+
+
+********************************************************************
+ Name: 	Peter Ford
+ SSN: 	789341256 		Age: 	21 yrs 		Sex: 	M
+
+********************************************************************
+   Transfer Hours:        10	 Transfer Quality Points:   30
+   MSU Hours Attempted:   48	 MSU Quality Points:       179
+
+   Transfer GPA:   3.00
+   MSU GPA:        3.73
+   Overall GPA:    3.60
+********************************************************************
+

@@ -1,0 +1,6 @@
+Name:	Tarah Weaver
+Age:	20
+SSN:	743029531
+Sex:	F
+Transfer hours: 0	Transfer quality points: 0
+MSU hours:	15	MSU quality points: 	49

@@ -1,0 +1,6 @@
+Name:	Tara Walton
+Age:	  29
+SSN:	123456789
+Sex:	  F
+Transfer hours:     3	Transfer quality points:    0
+MSU hours:	 4	MSU quality points:     16

@@ -1,0 +1,6 @@
+Name:	Peter  Ford
+Age:	21
+SSN:	789341256
+Sex:	M
+Transfer hours:   10	Transfer quality points:   30
+MSU hours:	48	MSU quality points: 	   179

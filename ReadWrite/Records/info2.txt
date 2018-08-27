@@ -1,0 +1,6 @@
+Name:	Linda   Wilson
+Age:	   18
+SSN:	300573412
+Sex:	F
+Transfer hours: 2	Transfer quality points:    7
+MSU hours:	20	MSU quality points: 	69

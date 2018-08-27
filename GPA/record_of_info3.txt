@@ -1,0 +1,14 @@
+Processing date: 04/29/14
+Error flag:      true
+
+Name:  John Smith
+Age:   23
+SSN:   132573851
+Sex:   M
+Transfer hours:        13    Transfer quality points:     35
+MSU hours:              0    MSU quality points:          29
+
+---------------------------
+Transfer GPA:	  2.69
+MSU GPA:	 -1.00
+Overall GPA:	 -1.00

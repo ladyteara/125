@@ -1,0 +1,15 @@
+
+
+********************************************************************
+ Name: 	Tara Walton
+ SSN: 	123456789 		Age: 	29 yrs 		Sex: 	F
+
+********************************************************************
+   Transfer Hours:         3	 Transfer Quality Points:    0
+   MSU Hours Attempted:    4	 MSU Quality Points:        16
+
+   Transfer GPA:   0.00
+   MSU GPA:        4.00
+   Overall GPA:    2.29
+********************************************************************
+

@@ -1,0 +1,6 @@
+Name:	John   Smith
+Age:	  23
+SSN:	132573851
+Sex:	  M
+Transfer hours:     13	Transfer quality points:    35
+MSU hours:	 0	MSU quality points:     29
